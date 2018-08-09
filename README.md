@@ -9,3 +9,6 @@ Creating a script to publish jekyll site to GitHub
   2. Run *jekyll build --source <source> --destination <destination>*
   3. Once the build is complete, closes the command prompt
   4. Gives the user the option to open bash and commit/push the changes to the repository
+
+
+Location of the Ruby command prompt: C:\Users\Bill\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Ruby 2.4.4-2-x64 with MSYS2
