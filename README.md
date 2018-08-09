@@ -1,8 +1,7 @@
 # WL-jekyll-publish
 Creating a script to publish jekyll site to GitHub
 
-#2018/08/08
-##The plan
+2018/08/08 -- The plan
 - First, I'm going to create a batch file that copies the files in the site directory, and pastes them into a local clone of the repository used to host the site. 
 
 - In the future, I want to create a script that:
